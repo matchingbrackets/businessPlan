@@ -21,15 +21,11 @@ Describe what you create today and what you might create later.
 
 ---
 
-# 3, Audience (Who is this for?)
+# 3. Audience (Who is this for?)
 You don't need demographics - just clarity
 - Primary Audiance:
 - Secondary Audience:
 - Problema / questions they may have:
-
----
-
-# 03.a. Style Guide 
 
 ---
 
@@ -91,7 +87,7 @@ Specific, realistic rules
 - Tone (casual, educational, conversational):
 - What I share:
 - What I don't do:
-- How I miss success:
+- How I measure success:
 
 ---
 
@@ -105,7 +101,20 @@ Handled separately because it's different.
 
 ---
 
-# 10. Growth Strategy (Slow & Sustainable)
+# 10. Promotion Strategy - Reddit
+Reddit is community first. Promotion only works when it's Secondary
+- Target Subreddits (and why do they fit):
+- Lurking & Learning period (before posting):
+- Alloed content types (links, text posts, comments):
+- Value-first approach ( helpful comments, answers, discussion):
+- How and when I share my own work:
+- Rules I will not break:
+- Karma / trust building strategy:
+- What success looks like on Reddit:
+
+---
+
+# 11. Growth Strategy (Slow & Sustainable)
 How this grows without burning Out. 
 - Short Term (3 months):
 - Medium Term (6-12 MOnths)
@@ -115,7 +124,6 @@ How this grows without burning Out.
 
 # 11. Monetization (Optional at First)
 It's okay if this stays empty for a while
-
 ## Current
 - 
 
@@ -127,7 +135,7 @@ It's okay if this stays empty for a while
 
 ---
 
-# 12. Metrics That matters
+# 12. Metrics That Matter 
 Only track what helps you decide what to do next
 - YouTube:
 - Website:
@@ -152,3 +160,8 @@ A parking lot for unknowns.
 # 15. Revision Log 
 Track changes so this document evolves.
 - Date - What Changed - why
+
+---
+
+# 16. Published articles (make a separate folder to collect them all???)
+# 17. Style Guide
