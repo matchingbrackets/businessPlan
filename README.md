@@ -1,13 +1,23 @@
 # Matching Brackets Business Plan
 Thid is the business plan for my YouTube Channel called "Matching Brackets."
 
-## Links
+## GitHub Untroduction
 
-- [**Bluesky**](https://bsky.app/profile/matchingbrackeets.bsky.social) - Social Media Network used to notify of new posts, videos, etc.
-- [**Mastodon**](https://techhub.social/@matchingbrackets) - Social Media Network used to notify of new posts, videos, etc.
-- [**Reddit**](https://www.reddit.com/user/MatchingBrackets/) - Social Media Network where I canh assist Linux newbies, and notify of new poata, videos, etc.
+**Hi, I'm Joe**
 
-- [**GitHub**](https://github.com/matchingbrackets) - Version Control website where I can share the code that I'm working on.
+I run a YouTube Channel called [**"Matching Brackets,"**](https://www.youtube.com/channel/UC9KuKnzAuVFbfd8W3kKzO1g) and there, I talk about...
+- 🐧 Linux from a beginner's point of view.
+- 💻 front end web developent and web site making.
+- 👺 teaching people about the dangers of online scammers.
+- 👍 I also like to talk about Gen X, and how it used to be in the olden days.
 
-- [**Substack**](https://substack.com/@matchingbrackets?utm_source=user-menu) - free, online blog and newsletter system. Also podcasts and anything else they offet/
-- [**YouTube**](https://www.youtube.com/@MatchingBrackets) - Video Channel where people can see theviodes i Maje.
+**My links**
+
+*Hold down the Ctrl key as you click on a link so they open in new page.*
+
+- 🖥 Check out our blog on [**Substack**](https://matchingbrackets.substack.com/)
+- 🦋 Come and Follow Us on [**Bluesky**](https://bsky.app/profile/matchingbrackeets.bsky.social)
+- 🐘 Come and Follow Us on [**Mastodon**](https://techhub.social/@matchingbrackets)
+- 📺 And of course on [**YouTube**](https://www.youtube.com/channel/UC9KuKnzAuVFbfd8W3kKzO1g)
+
+
