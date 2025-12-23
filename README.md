@@ -3,7 +3,7 @@ Thid is the business plan for my YouTube Channel called "Matching Brackets."
 
 ## Table of Contents
 
-01. [**One Sentence Summary / Executive Summary (North Star)**](01-NorthStar.md)
+01. [**Executive Summary r)**](01-NorthStar.md)
 02. [**What Matching Brackets Offers**](02-Offering.md)
 03. [**(Who is this for?) Our Audience**](03-Audience.md)
 04. [**Platforms & Ecosystem**](04-Platforms.md)

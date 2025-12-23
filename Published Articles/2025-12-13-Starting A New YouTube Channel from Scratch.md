@@ -64,3 +64,5 @@ Thanks for being here at the very beginning. It means a lot to me.
 **Everything I create here is free**. But if you’d like to support my journey as I start my Linux YouTube channel, you can become a paid subscriber by entering your email address above to receive new posts directly in your email. You will be charged for the subscription, but think of it as a way to contribute to my work. No pressure — it just helps me keep going. ❤️
 
 ***Subscribe Link***
+
+Draft: 12/23/2025
